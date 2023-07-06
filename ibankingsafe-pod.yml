@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
     - name: ibankingsafe
-      image: techsriman/inetbankingsafe:1.0
+      image: techpankaj/ibankingsafe:1.0
       ports:
         - name: tomcatport
           containerPort: 8082
